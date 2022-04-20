@@ -47,10 +47,13 @@ ul{
 table{
     margin-top: 2%;
 }
- th{width: 300px;
-    text-align: left;
+th{min-width: 300px;
+   text-align: left;
+   background-color: rgb(32, 170, 229);
+   color: white;
 }
 td{min-width: 300px;
+   max-width: 780px;
 }
 footer{
     margin-top: 3%;
@@ -83,3 +86,6 @@ footer h3{
     font-weight: 800;
     margin: 3%;
 } 
+.odd{
+    background-color: rgb(177, 229, 242);
+}
