@@ -17,3 +17,17 @@ header div{
     margin-top: 2%;
     margin-left: 1%;
 }
+main{
+    margin-left: 1%;
+    margin-top: 2%;
+}
+h1{
+    font-size: 50px
+}
+p{
+    font-size: 20px;
+    color: gray;
+}
+p #date{
+    font-size: 15px;
+}
