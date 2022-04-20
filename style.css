@@ -44,3 +44,42 @@ ul{
     margin-top: 3%;
     margin-left: 20px;
 }
+table{
+    margin-top: 2%;
+}
+ th{width: 300px;
+    text-align: left;
+}
+td{min-width: 300px;
+}
+footer{
+    margin-top: 3%;
+    margin-left: 1%;
+}
+footer h3{
+    color: gray;
+}
+#adv1{
+    background-image: url(img/monitor.jpg);
+    margin-top: 2%;
+    width: 312px;
+    height: 208px;
+}
+#adv1 p{
+    font-size: 30px;
+    color: white;
+    font-weight: 800;
+    margin: 3%;
+} 
+#adv2{
+    background-image: url(img/graph.jpg);
+    margin-top: 2%;
+    width: 312px;
+    height: 208px;
+}
+#adv2 p{
+    font-size: 30px;
+    color: white;
+    font-weight: 800;
+    margin: 3%;
+} 
