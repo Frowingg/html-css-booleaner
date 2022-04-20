@@ -24,10 +24,13 @@ main{
 h1{
     font-size: 50px
 }
-p{
+#title{
     font-size: 20px;
     color: gray;
 }
 p #date{
     font-size: 15px;
+}
+#img{
+    width: 95%;
 }
