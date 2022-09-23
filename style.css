@@ -3,13 +3,16 @@
     margin: 0;
     padding: 0;
 }
+body{
+    padding-bottom: 30px;
+}
 
 header div{
     background-color: rgb(78,161,255); 
     width: 100vw;
     height: 120px;
     background-image: url('img/pattern.png');
-    background-repeat: repeat;
+
     background-size: 32%;
 }
 #logo{
@@ -46,6 +49,7 @@ ul{
 }
 table{
     margin-top: 2%;
+    border-collapse: collapse;
 }
 th{min-width: 300px;
    text-align: left;
